@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2F883FF81EBB913400C818D5 /* BasalRatesTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F883FF71EBB913400C818D5 /* BasalRatesTableViewController.swift */; };
 		2FBCE30F1E4A4B8A008AF09C /* CarbEntryEditViewControllerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2FBCE30E1E4A4B8A008AF09C /* CarbEntryEditViewControllerTests.swift */; };
 		2FBCE3121E4A5B54008AF09C /* CarbKit.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 43D8FE581C7291D80073BE78 /* CarbKit.storyboard */; };
 		2FD1A6B01E4A76CC0042EF39 /* CarbEntryValidationNavigationDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2FD1A6AF1E4A76CC0042EF39 /* CarbEntryValidationNavigationDelegate.swift */; };
@@ -292,6 +293,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		2F883FF71EBB913400C818D5 /* BasalRatesTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BasalRatesTableViewController.swift; sourceTree = "<group>"; };
 		2FBCE30E1E4A4B8A008AF09C /* CarbEntryEditViewControllerTests.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CarbEntryEditViewControllerTests.swift; sourceTree = "<group>"; };
 		2FD1A6AF1E4A76CC0042EF39 /* CarbEntryValidationNavigationDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CarbEntryValidationNavigationDelegate.swift; sourceTree = "<group>"; };
 		430157F71C7EC03B00B64B63 /* LoopKit Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "LoopKit Example.app"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -722,6 +724,7 @@
 				434FF1EF1CF29451000DB779 /* TextFieldTableViewCell.xib */,
 				434FF1F31CF294A9000DB779 /* TextFieldTableViewController.swift */,
 				43D8FE0E1C7290530073BE78 /* UIViewController.swift */,
+				2F883FF71EBB913400C818D5 /* BasalRatesTableViewController.swift */,
 			);
 			path = UI;
 			sourceTree = "<group>";
@@ -1444,6 +1447,7 @@
 				43D8FDFE1C7290350073BE78 /* LoopMath.swift in Sources */,
 				43D8FDFF1C7290350073BE78 /* NSDate.swift in Sources */,
 				434FF1F41CF294A9000DB779 /* TextFieldTableViewController.swift in Sources */,
+				2F883FF81EBB913400C818D5 /* BasalRatesTableViewController.swift in Sources */,
 				43D8FDFB1C7290350073BE78 /* GlucoseSchedule.swift in Sources */,
 				43D8FE171C7290530073BE78 /* SingleValueScheduleTableViewController.swift in Sources */,
 				43D8FE0F1C7290530073BE78 /* DailyQuantityScheduleTableViewController.swift in Sources */,
